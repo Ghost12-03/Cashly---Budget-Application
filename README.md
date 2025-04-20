@@ -1,4 +1,4 @@
-Abstract:
+#**Abstract:**
 Cashly is a budget application developed to provide users with efficient tools for managing personal and business finances. Recognizing the significance of accurate income and expense tracking for financial stability and informed decision-making, Cashly offers a user-friendly web-based platform for logging daily financial transactions and categorizing expenditures. Utilizing frontend technologies such as HTML, CSS, and JavaScript for an interactive user interface, with the potential for robust backend support via PHP or Node.js and secure data storage through SQL-based databases, Cashly aims to simplify budgeting processes, reduce manual calculations, and foster improved financial awareness and habits. By enabling users to gain clear insights into their spending patterns through comprehensive reports, Cashly empowers them to make informed financial decisions and work towards achieving their financial objectives.
 
 Introduction:
