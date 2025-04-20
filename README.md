@@ -14,7 +14,7 @@ A key motivation behind developing such systems is to provide users with a clear
 
 Proposed systems in this domain often aim to enhance user efficiency and effectiveness by adding features beyond basic tracking. These can include functionalities like managing special or refundable expenses, allocating savings, and even providing predictions of future expenses based on historical data through the integration of machine learning algorithms. The use of web technologies ensures accessibility and a user-friendly interface, making financial management more approachable for a wider audience.\
 
-Therefore, Cashly emerges within this context as a budget application intended to leverage these technological advancements to provide users with a robust, user-friendly, and efficient tool for managing their personal and business finances, fostering better financial habits and informed decision-making\
+Therefore, Cashly emerges within this context as a budget application intended to leverage these technological advancements to provide users with a robust, user-friendly, and efficient tool for managing their personal and business finances, fostering better financial habits and informed decision-making
  
 # Literature Review:
 The development of Cashly, a budget application for efficient personal and business financial management, is informed by a growing body of work focused on leveraging technology to simplify and enhance financial tracking and analysis. Existing literature, including project reports and research papers, showcases various approaches to building such systems, highlighting common features, technological choices, and identified areas for improvement.\
@@ -38,13 +38,13 @@ More advanced approaches explore the integration of machine learning to provide 
 •	**Integration of Machine Learning for Prediction:**\
 o	Machine learning algorithms like Random Forest can analyze financial data in real-time.\
 o	Historical data can be used to predict future expenses and inform budgeting.\
-o	Such systems aim to empower users to make more informed financial decisions.\
+o	Such systems aim to empower users to make more informed financial decisions.
 
 
 
 # System Description 
 
-Cashly is a web-based budget application for efficient personal financial management. Initially a client-side application using HTML, CSS, and JavaScript (as seen in the YouTube video), it allows users to input a budget, add and manage expenses, and track their real-time balance. Future development, based on project report excerpts, may include a backend and database for persistent data, enabling features like expense categorization, savings management, and detailed reporting.\
+Cashly is a web-based budget application for efficient personal financial management. Initially a client-side application using HTML, CSS, and JavaScript (as seen in the YouTube video), it allows users to input a budget, add and manage expenses, and track their real-time balance. Future development, based on project report excerpts, may include a backend and database for persistent data, enabling features like expense categorization, savings management, and detailed reporting.
 
 
 
@@ -59,13 +59,13 @@ The project builds the application incrementally. This suggests an iterative dev
 •	It emphasizes the logic used inside the JavaScript code. This suggests a focus on creating functional JavaScript code to manage the budget and expenses.\
 •	There's an element of basic UI/UX design to structure the HTML elements (like containers, input fields, buttons, and tables) and style them using CSS. The use of Box Icons also contributes to the visual design.\
 •	Basic input validation is implemented in JavaScript to ensure the budget input is valid (a number greater than zero).\
-•	The process includes event handling in JavaScript to respond to user interactions like clicking buttons (e.g., "calculate budget," "add expenses," "edit," "delete")\
+•	The process includes event handling in JavaScript to respond to user interactions like clicking buttons (e.g., "calculate budget," "add expenses," "edit," "delete")
 
 # Technology Used 
 • HTML (HyperText Markup Language) is used to structure the web page, defining the input fields for budget and expenses, buttons for actions, and the areas to display the budget, balance, and expense list.\
 •	CSS (Cascading Style Sheets) is used for styling the application's appearance, including layout, colors, fonts, and responsiveness (although detailed responsiveness isn't a primary focus of the shown excerpts). \
 •	JavaScript is the core programming language used to implement the application's functionality, including handling user input, performing calculations (budget, balance), dynamically updating the HTML content (displaying expenses, updating balance), and implementing basic validation and event listeners. \
-•	Box Icons: The project explicitly using Box Icons for the icons within the application and shows how to include them by adding the style.css file from the Box Icons website to the project\
+•	Box Icons: The project explicitly using Box Icons for the icons within the application and shows how to include them by adding the style.css file from the Box Icons website to the project.
 
 
 
@@ -83,26 +83,26 @@ Expense tracker systems serve as valuable tools for efficiently managing persona
 # Conclusion:
 In conclusion, expense tracker systems offer a significant advantage in managing personal and business finances by providing users with the means to effectively monitor, categorize, and analyze their financial transactions. Built upon foundational web technologies such as HTML, CSS, and JavaScript for user interface development and often supported by backend languages like PHP or Node.js in conjunction with database systems such as MySQL or SQL, these applications aim to simplify the often-complex task of financial tracking.
 **Key benefits and future directions of expense tracker systems include:**\
-•	Real-time tracking and analysis: Users can gain immediate insights into their spending habits and financial standing.
-•	Expense categorization: Organizing expenses into defined categories allows for a more granular understanding of where money is being spent.
-•	Detailed reporting: Generating reports over various timeframes (daily, weekly, monthly, yearly) enables users to identify financial trends and patterns.
-•	Automation and advanced features: Future advancements may include automated savings management, tracking of refundable expenses, and the integration of machine learning algorithms to provide predictive budgeting and personalized financial advice.
-•	Improved financial decision-making: By providing a clear and organized view of their finances, these systems empower users to make more informed decisions, set financial goals, and potentially achieve greater financial stability.
-Ultimately, the goal of expense tracker systems is to move away from manual, often cumbersome methods of financial management and offer a user-friendly, efficient, and insightful solution that promotes better financial awareness and control. While specific implementations may vary in their features and technological choices, the overarching aim remains to empower individuals and businesses to take charge of their finances in an increasingly complex economic environment
+•	Real-time tracking and analysis: Users can gain immediate insights into their spending habits and financial standing.\
+•	Expense categorization: Organizing expenses into defined categories allows for a more granular understanding of where money is being spent.\
+•	Detailed reporting: Generating reports over various timeframes (daily, weekly, monthly, yearly) enables users to identify financial trends and patterns.\
+•	Automation and advanced features: Future advancements may include automated savings management, tracking of refundable expenses, and the integration of machine learning algorithms to provide predictive budgeting and personalized financial advice.\
+•	Improved financial decision-making: By providing a clear and organized view of their finances, these systems empower users to make more informed decisions, set financial goals, and potentially achieve greater financial stability.\
+Ultimately, the goal of expense tracker systems is to move away from manual, often cumbersome methods of financial management and offer a user-friendly, efficient, and insightful solution that promotes better financial awareness and control. While specific implementations may vary in their features and technological choices, the overarching aim remains to empower individuals and businesses to take charge of their finances in an increasingly complex economic environment.
 
 # Future Scope
 The future of expense tracker systems involves becoming more intelligent, automated, integrated, and user-friendly to better assist users in managing their finances. 
 Key areas of development include:
-•	Enhanced User Experience: Incorporating voice input, automating recurring expenses, improving search and filtering, and ensuring multi-device synchronization.
-•	Advanced Analytics and Reporting: Offering more insightful comparative financial analysis, customizable and predictive reports, and goal-based budgeting and tracking.
-•	Integration and Connectivity: Securely connecting with bank accounts and payment platforms, including currency conversion, and integrating with other financial tools.
-•	Technological Advancements: Further leveraging machine learning and AI for predictions and automation, enhancing security and privacy, and prioritizing mobile-first and responsive design.
+•	Enhanced User Experience: Incorporating voice input, automating recurring expenses, improving search and filtering, and ensuring multi-device synchronization.\
+•	Advanced Analytics and Reporting: Offering more insightful comparative financial analysis, customizable and predictive reports, and goal-based budgeting and tracking.\
+•	Integration and Connectivity: Securely connecting with bank accounts and payment platforms, including currency conversion, and integrating with other financial tools.\
+•	Technological Advancements: Further leveraging machine learning and AI for predictions and automation, enhancing security and privacy, and prioritizing mobile-first and responsive design.\
 •	Robust Backend and Data Management: Implementing scalable backend infrastructure, offering local storage options, and optimizing database design.
 Ultimately, the aim is to move beyond manual tracking and provide a seamless, efficient, and insightful solution for improved financial awareness and control.
 
 # References
-1.	Acharya, Kamal, Expense Tracker Management System Project Report.
-2.	Mohamed Ameen A, Mohan Ram M, Mukesh Balaji N, Sathiya G, "Budget Tracker"
-3.	Lavanya K N, Janakiraman S, "Design And Implementation Of A Daily Expense Tracking System For Personal Financial Management"
+1.	Acharya, Kamal, Expense Tracker Management System Project Report.\
+2.	Mohamed Ameen A, Mohan Ram M, Mukesh Balaji N, Sathiya G, "Budget Tracker"\
+3.	Lavanya K N, Janakiraman S, "Design And Implementation Of A Daily Expense Tracking System For Personal Financial Management"\
 4.	Alpesh Dongre, Anshul Singh Kushwah, Ashwini Kumawat, Prof. Gaurav Mandloi, Prof. Ketki Tiwari, Prof. Praveen Bhanodia, "Web Based Application For Daily Expense Tracker System"
 ![image](https://github.com/user-attachments/assets/672d2a4c-c5c2-43a2-b5c0-b460efbd8e2f)
