@@ -40,18 +40,13 @@ o	Machine learning algorithms like Random Forest can analyze financial data in r
 o	Historical data can be used to predict future expenses and inform budgeting.\
 o	Such systems aim to empower users to make more informed financial decisions.
 
-
-
 # System Description 
 
 Cashly is a web-based budget application for efficient personal financial management. Initially a client-side application using HTML, CSS, and JavaScript (as seen in the YouTube video), it allows users to input a budget, add and manage expenses, and track their real-time balance. Future development, based on project report excerpts, may include a backend and database for persistent data, enabling features like expense categorization, savings management, and detailed reporting.
 
+![Picture 1](https://github.com/user-attachments/assets/d691e998-1568-4d55-ae65-7448d55927d3)
 
-
-
-
-
-
+![Picture 2](https://github.com/user-attachments/assets/1310a3f6-6e3a-4a92-b1e1-dd549976740b)
 
 # Methodology:
 The project builds the application incrementally. This suggests an iterative development process where the UI is designed first using HTML and CSS, and then functionality is added using JavaScript.\
@@ -66,16 +61,6 @@ The project builds the application incrementally. This suggests an iterative dev
 •	CSS (Cascading Style Sheets) is used for styling the application's appearance, including layout, colors, fonts, and responsiveness (although detailed responsiveness isn't a primary focus of the shown excerpts). \
 •	JavaScript is the core programming language used to implement the application's functionality, including handling user input, performing calculations (budget, balance), dynamically updating the HTML content (displaying expenses, updating balance), and implementing basic validation and event listeners. \
 •	Box Icons: The project explicitly using Box Icons for the icons within the application and shows how to include them by adding the style.css file from the Box Icons website to the project.
-
-
-
-
-
-
-
-
-
-
 
 # Result & Discussion:
 Expense tracker systems serve as valuable tools for efficiently managing personal and business finances by enabling users to monitor their income and expenses. These applications, often built with web technologies like HTML, CSS, and JavaScript for user interfaces and potentially supported by backend languages such as PHP or Node.js along with databases like MySQL or SQL, aim to provide clear visibility into spending habits and facilitate informed financial decisions. Functionalities commonly include tracking daily transactions, categorizing expenses, and generating reports to analyze financial data over different periods. Furthermore, the evolution of these systems includes the integration of more advanced features such as automated savings management, special expense tracking, and even predictive capabilities through machine learning algorithms, aiming to provide users with actionable insights and promote better financial well-being. While some systems may have limitations regarding specific features like currency conversion or advanced search, the core objective remains to simplify financial management, reduce manual effort, and empower users to gain control over their finances.
@@ -104,5 +89,4 @@ Ultimately, the aim is to move beyond manual tracking and provide a seamless, ef
 1.	Acharya, Kamal, Expense Tracker Management System Project Report.\
 2.	Mohamed Ameen A, Mohan Ram M, Mukesh Balaji N, Sathiya G, "Budget Tracker"\
 3.	Lavanya K N, Janakiraman S, "Design And Implementation Of A Daily Expense Tracking System For Personal Financial Management"\
-4.	Alpesh Dongre, Anshul Singh Kushwah, Ashwini Kumawat, Prof. Gaurav Mandloi, Prof. Ketki Tiwari, Prof. Praveen Bhanodia, "Web Based Application For Daily Expense Tracker System"
-![image](https://github.com/user-attachments/assets/672d2a4c-c5c2-43a2-b5c0-b460efbd8e2f)
+
